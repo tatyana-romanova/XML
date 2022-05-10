@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-<Movie>Титаник</Movie>
-<TV series>Друзья</TV series>
-<Food>Салат</Food>
-<Season>Весна</Season>
-<Сountry>Грузия</Сountry>
+	<Movie>Титаник</Movie>
+        <TV series>Друзья</TV series>
+        <Food>Салат</Food>
+        <Season>Весна</Season>
+	<Сountry>Грузия</Сountry>
+<root>
+
