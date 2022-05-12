@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	<skills>Научилась пользоваться Terminal linux (GitBash), писала команду. Тестирование API через Postman. Java Script (функции, методы) и автотесты API. Изучила HTTP-документы на сервере.
-	Научилась пользоваться GitHub - онлайн-сервисом хранения и хранения кода. Завела аккаунт и стала заполнять его своими работами</skills>
+	<skills>Terminal linux (GitBash)</skills>
+	<skills>Postman</skills>
+	<skills>GitHub</skills>
+	<skills>VS code</skills>
+	<skills>Dev Tools</skills>
+	<skills>Android Studio</skills>
+	<skills>Charles</skills>
+	<skills>Fiddler</skills>
 <root>
