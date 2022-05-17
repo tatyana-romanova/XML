@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	<skills>Terminal linux (GitBash)</skills>
-	<skills>Postman</skills>
-	<skills>GitHub</skills>
-	<skills>VS code</skills>
-	<skills>Dev Tools</skills>
-	<skills>Android Studio</skills>
-	<skills>Charles</skills>
-	<skills>Fiddler</skills>
+	<skills id="1">Terminal linux (GitBash)</skills>
+	<skills id="2">Postman</skills>
+	<skills id="3">GitHub</skills>
+	<skills id="4">VS code</skills>
+	<skills id="5">Dev Tools</skills>
+	<skills id="6">Android Studio</skills>
+	<skills id="7">Charles</skills>
+	<skills id="8">Fiddler</skills>
 <root>
